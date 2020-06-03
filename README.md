@@ -1,5 +1,5 @@
-# Simple React BMI Calculator
-About: A BMI Calculator built with React <br>
+# React BMI Calculator
+About: A super simple BMI calculator built with React <br>
 Start Date: 2 Jun 2020 <br>
-Status: In Progress <br>
+Status: Completed (on 3 Jun 2020) <br>
 Skills: HTML, CSS, React.js
