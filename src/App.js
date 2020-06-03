@@ -48,6 +48,9 @@ function App() {
         </div>
       </form>
       <h1>Your Result:{result}</h1>
+      <a href="https://www.calculator.net/bmi-calculator.html" target="_blank">
+        In-Depth Calculation
+      </a>
     </div>
   );
 }
