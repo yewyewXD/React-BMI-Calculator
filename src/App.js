@@ -49,7 +49,11 @@ function App() {
         </div>
       </form>
       <h2>Your Result: {result}</h2>
-      <a href="https://www.calculator.net/bmi-calculator.html" target="_blank">
+      <a
+        href="https://www.calculator.net/bmi-calculator.html"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         In-Depth Calculation
       </a>
     </div>
